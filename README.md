@@ -19,7 +19,7 @@ The Mini project is about to provision an instance from aws ec2 installed with u
 ### Steps ##
 Terraform manual commands and can be used in a Pipeline CI/CD Automation
 
-> $\color{green}{terraform}$ init
+> ${\color{green}terraform}$ init
 
 > terraform validate
 
