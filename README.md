@@ -9,12 +9,12 @@ The Mini project is about to provision an instance from aws ec2 installed with u
 
 ### Repo Includes ###
 
-[x] 01-06         : Terraform files that congures the Infrastucture-as-a-Code
-[x] Shell Script  : jfrog.sh file that configures the installation of the update and upgrade ec2 instance to its latest version, Jfrog Artifactory Platform and its services. Then curling in the cli to test the success installation.
+- [x] 01-06         : Terraform files that congures the Infrastucture-as-a-Code
+- [x] Shell Script  : jfrog.sh file that configures the installation of the update and upgrade ec2 instance to its latest version, Jfrog Artifactory Platform and its services. Then curling in the cli to test the success installation.
 
-> `curl localhost:8081`
+> `#FFEA00` curl `#000` localhost:8081
 
-[x] Added sample private key directory with `myec2vm.pem` key
+- [x] Added sample private key directory with `myec2vm.pem` key
 
 
 > [!IMPORTANT]
