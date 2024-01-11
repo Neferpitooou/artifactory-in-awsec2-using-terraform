@@ -1,4 +1,4 @@
-# Provision AWS EC2 Artifactory using Terraform
+# Provision AWS EC2 JFROG Artifactory Platform using Terraform
 
 ## Personal Learning ##
 
@@ -16,8 +16,21 @@ The Mini project is about to provision an instance from aws ec2 installed with u
 
 - [x] Added sample private key directory with `myec2vm.pem` key
 
+### Steps ##
+Terraform manual commands and can be used in a Pipeline CI/CD Automation
+
+> terraform init
+> terraform validate
+> terraform plan
+> terraform apply -auto-approve
+
+> terraform destroy -auto-approve
+
 
 > [!IMPORTANT]
 > The README.md :shipit: 
+
+### References ###
+[AWS Terraform Registry](https://registry.terraform.io/providers/hashicorp/aws/latest)
 
 Enjoy! :+1: :+1: :+1:
